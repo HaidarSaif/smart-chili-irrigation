@@ -13,7 +13,7 @@ Beberapa titik sensor kelembapan tanah dihubungkan ke pusat kendali menggunakan 
 
 ## 🚀 Teknologi yang Digunakan
 *   **Hardware:** ESP32, Pompa Air Submersible, Mini PLTS (Panel Surya), Sensor Kelembapan.
-*   **Software:** C++, Protokol ESP-NOW, Firebase Realtime Database.
+*   **Software:** C++, Protokol ESP-NOW, Firebase Realtime Database, MIT App Inventor (Mobile App).
 
 ## 📂 Struktur Direktori
 *   `/microcontroller` - Berisi kode untuk *Node Sensor* (Sender) dan *Node Gateway/Relay* (Receiver).
