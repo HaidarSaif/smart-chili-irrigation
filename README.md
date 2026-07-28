@@ -18,6 +18,6 @@ Beberapa titik sensor kelembapan tanah dihubungkan ke pusat kendali menggunakan 
 ## 📂 Struktur Direktori
 *   `/microcontroller` - Berisi kode untuk *Node Sensor* (Sender) dan *Node Gateway/Relay* (Receiver).
 *   `/mobile_app` - Berisi file aplikasi mobile hasil ekspor dari MIT APP Inventor.
-*   `/documentation` - Berisi foto implementasi di lahan, interaksi dengan KWT, dan topologi jaringan.
+*   `/documentation` - Berisi foto implementasi di lahan dan tampilan aplikasi mobile.
 <img width="1376" height="784" alt="smart_irrigation (9)" src="https://github.com/user-attachments/assets/209acc5e-cd92-436c-9c24-4f6cef59597b" />
 <img width="540" height="1200" alt="smart_irrigation (1)" src="https://github.com/user-attachments/assets/46cb69a6-1d16-4475-a6e3-07cf39b7d1b4" />
